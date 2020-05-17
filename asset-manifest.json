@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/5-whys-tool/static/css/main.e6978e7a.chunk.css",
+    "main.js": "/5-whys-tool/static/js/main.bff2f9df.chunk.js",
+    "main.js.map": "/5-whys-tool/static/js/main.bff2f9df.chunk.js.map",
+    "runtime-main.js": "/5-whys-tool/static/js/runtime-main.2fd72cad.js",
+    "runtime-main.js.map": "/5-whys-tool/static/js/runtime-main.2fd72cad.js.map",
+    "static/js/2.022f3386.chunk.js": "/5-whys-tool/static/js/2.022f3386.chunk.js",
+    "static/js/2.022f3386.chunk.js.map": "/5-whys-tool/static/js/2.022f3386.chunk.js.map",
+    "index.html": "/5-whys-tool/index.html",
+    "precache-manifest.94dabc87aa56a9d785b6579bd6c3f843.js": "/5-whys-tool/precache-manifest.94dabc87aa56a9d785b6579bd6c3f843.js",
+    "service-worker.js": "/5-whys-tool/service-worker.js",
+    "static/css/main.e6978e7a.chunk.css.map": "/5-whys-tool/static/css/main.e6978e7a.chunk.css.map",
+    "static/js/2.022f3386.chunk.js.LICENSE.txt": "/5-whys-tool/static/js/2.022f3386.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd72cad.js",
+    "static/js/2.022f3386.chunk.js",
+    "static/css/main.e6978e7a.chunk.css",
+    "static/js/main.bff2f9df.chunk.js"
+  ]
+}
