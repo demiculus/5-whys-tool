@@ -2,7 +2,7 @@
   "name": "five-whys",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mmpractices.com/5-whys-tool",
+  "homepage": "https://5whystool.mmpractices.com",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
